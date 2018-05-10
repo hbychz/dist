@@ -1,4 +1,4 @@
-#分布式系统学习资料
+##分布式系统学习资料
 
 [An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 
